@@ -14,9 +14,9 @@ excerpt_separator: "<!--more-->"
 title : John Doe Website
 tagline: Site Tagline
 author :
-  name : John Doe
-  email : john.doe@gitmail.org
-  github : johndoe
+  name : Joker
+  email : pcqpcq@gmail.com
+  github : pcqpcq
   twitter : johndoe
   feedburner : johndoefeedname
 
@@ -28,7 +28,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://johndoe.github.io
+production_url : http://pcqpcq.github.io/
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
