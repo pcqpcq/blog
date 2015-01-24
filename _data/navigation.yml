@@ -1,0 +1,10 @@
+# Menu navigation links
+
+- title: 所有文章
+  url: /posts/
+
+- title: 分类
+  url: /categories
+
+- title: 标签
+  url: /tags/
